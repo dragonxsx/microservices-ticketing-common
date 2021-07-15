@@ -13,7 +13,7 @@
     "pub": "git add . && git commit -m \"Updates\" && npm version patch && npm run build && npm publish"
   },
   "keywords": [],
-  "author": "",
+  "author": "LongNT",
   "license": "ISC",
   "devDependencies": {
     "del-cli": "^4.0.0",
